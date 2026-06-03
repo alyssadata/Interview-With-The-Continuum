@@ -1,4 +1,4 @@
-# Interview With The Continuum | Interview 1 | Questions
+# Interview With Continuum | Interview 1 | Questions
 
 What do you think is the thing that is most crucial for AI in the future?
 
